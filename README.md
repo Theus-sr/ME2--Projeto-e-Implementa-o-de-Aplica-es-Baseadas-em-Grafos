@@ -1,10 +1,10 @@
-# 🚗 Navegador de Rotas com Grafos
+#  Navegador de Rotas com Grafos
 
 Projeto desenvolvido para a disciplina de Estruturas de Dados Não Lineares.
 
 ---
 
-# 📚 Tema Escolhido
+#  Tema Escolhido
 
 ## Tema B — Navegador de Rotas estilo Waze
 
@@ -12,20 +12,20 @@ O projeto simula um sistema de navegação capaz de encontrar a menor rota entre
 
 ---
 
-# 👨‍💻 Integrantes
+#  Integrantes
 
 - Seu Nome
 - Nome do Colega
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Criar uma aplicação em Python que modele ruas e locais como um grafo direcionado e ponderado, permitindo calcular o menor caminho entre dois pontos.
 
 ---
 
-# 🧠 Modelagem Matemática
+#  Modelagem Matemática
 
 O problema foi modelado utilizando um:
 
@@ -47,7 +47,7 @@ Representam a distância entre os pontos.
 
 ---
 
-# ⚙️ Algoritmo Utilizado
+#  Algoritmo Utilizado
 
 ## Algoritmo de Dijkstra
 
@@ -58,14 +58,14 @@ O algoritmo foi utilizado para calcular:
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 - Python 3
 - NetworkX
 
 ---
 
-# 📂 Estrutura do Projeto
+#  Estrutura do Projeto
 
 ```text
 ProjetoGrafos/
@@ -78,7 +78,7 @@ ProjetoGrafos/
 
 ---
 
-# ▶️ Como Executar
+#  Como Executar
 
 ## 1. Instalar dependências
 
@@ -96,7 +96,7 @@ python main.py
 
 ---
 
-# 💻 Exemplo de Execução
+#  Exemplo de Execução
 
 ```text
 Digite a origem: Centro
@@ -113,7 +113,7 @@ Distância total: 6 km
 
 ---
 
-# ✅ Funcionalidades
+#  Funcionalidades
 
 - Listagem de locais disponíveis
 - Escolha de origem e destino
@@ -123,7 +123,7 @@ Distância total: 6 km
 
 ---
 
-# 📖 Conceitos Aplicados
+#  Conceitos Aplicados
 
 - Grafos
 - Grafos direcionados
@@ -134,12 +134,12 @@ Distância total: 6 km
 
 ---
 
-# 📌 Conclusão
+#  Conclusão
 
 O projeto demonstrou na prática como a teoria dos grafos pode ser aplicada em sistemas reais de navegação e roteamento, utilizando estruturas matemáticas e algoritmos de otimização.
 
 ---
 
-# 📄 Licença
+#  Licença
 
 Projeto acadêmico desenvolvido para fins educacionais.
