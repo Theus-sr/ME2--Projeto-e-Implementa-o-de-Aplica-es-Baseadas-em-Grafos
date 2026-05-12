@@ -1,8 +1,4 @@
-#  Navegador de Rotas com Grafos
 
-Projeto desenvolvido para a disciplina de Estruturas de Dados Não Lineares.
-
----
 
 #  Tema Escolhido
 
