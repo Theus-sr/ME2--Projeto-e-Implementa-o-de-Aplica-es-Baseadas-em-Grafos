@@ -14,8 +14,8 @@ O projeto simula um sistema de navegação capaz de encontrar a menor rota entre
 
 #  Integrantes
 
-- Seu Nome
-- Nome do Colega
+- Alberto Costa
+- Matheus Albuquerque
 
 ---
 
